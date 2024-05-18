@@ -12,7 +12,7 @@ function isAnagram(str1, str2) {
   console.log(uniqueNumbers,uniqueNumbers2);
   // console.log(Set(str1.split(""))==Set(str2.split("")))
 // if (str1.split("")===str2.split("")){
-//   return 
+  return result 
 // }
 }
 isAnagram('openai', 'aiopen')
